@@ -7,7 +7,7 @@ categories: [getting-started]
 order: 4
 ---
 
-This document describes how to configure your Linux, Android or macOS project to run on CircleCI 2.0 after you [sign up]({{ site.baseurl }}/2.0/first-steps/).  
+This document describes how to configure your Linux, Android or macOS project to run on CircleCI 2.0 after you [Sign Up]({{ site.baseurl }}/2.0/first-steps/).  
 
 1. Create a directory called `.circleci` in the root directory of your local GitHub or Bitbucket code repository. 
 
